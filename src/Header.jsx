@@ -16,7 +16,7 @@ function Header() {
 				</div>
 			</div>
 			{/* menuItems */}
-			<div className="header__menutItems">
+			<div className="header__menuItems">
 				<a href="#">Free Stocks</a>
 				<a href="#">Portfolio</a>
 				<a href="#">Cash</a>
